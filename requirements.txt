@@ -3,3 +3,4 @@ pandas==0.25.3
 numpy==1.17.4
 plotly==4.8.2
 pydeck==0.4.0b2
+patool==1.12
